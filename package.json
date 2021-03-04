@@ -1,0 +1,16 @@
+{
+  "name": "the-fundamental-anagram-of-calculus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "npx mocha spec/**/*.spec.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "module": "lib",
+  "devDependencies": {
+    "chai": "^4.3.3",
+    "mocha": "^8.3.0"
+  }
+}
